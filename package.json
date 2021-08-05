@@ -1,0 +1,17 @@
+{
+  "name": "node-redis-usage",
+  "version": "1.0.0",
+  "description": "How To Use Redis With Node ?",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": " *_* ",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
